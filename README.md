@@ -1,6 +1,4 @@
 
-
-
 - 👋 Hi, I’m @Unaisameen
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
